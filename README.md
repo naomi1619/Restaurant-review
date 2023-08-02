@@ -1,2 +1,2 @@
-Reviews are collected over 1000 of a certain restaurant and are checking the accuracy rate of review matches using Naive Bayes, SVM(Support Vector Machine), and Logistic Regression. 
+Using Natural Language Processing on a text review collected from over 900+ customers of a certain restaurant to predict if the review is a good one or a bad one. Prediction is done using a Bag-of-words model while training the data set using classification models such as Naive Bayes, SVM(Support Vector Machine), and Logistic Regression. 
 With the resulting output, it is seen that the Logistic regression gets a 0.776 accuracy rate, close to the 0.76 accuracy rate scored by SVM.
